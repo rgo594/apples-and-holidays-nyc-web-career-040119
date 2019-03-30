@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 require 'pry'
 
+=======
+>>>>>>> 5ec82f06c7ab8224e9866a02f533c7bbd763c4f4
 holiday_supplies = {
   :winter => {
     :christmas => ["Lights", "Wreath"],
@@ -16,7 +19,11 @@ holiday_supplies = {
   }
 }
 
+<<<<<<< HEAD
 def second_supply_for_fourth_of_july(holiday_hash)
+=======
+
+>>>>>>> 5ec82f06c7ab8224e9866a02f533c7bbd763c4f4
   holiday_supplies[:summer][:fourth_of_july][1]
 end
 
